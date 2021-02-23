@@ -59,6 +59,7 @@
             />
 
         <Button
+            android:id="@+id/yolobtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="129dp"
